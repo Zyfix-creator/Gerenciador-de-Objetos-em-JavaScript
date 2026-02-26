@@ -36,8 +36,8 @@ O objetivo é praticar conceitos fundamentais de JavaScript, como:
 ```bash
 git clone https://github.com/seu-usuario/gerenciador-objetos-js.git
 
-´´´2. Entre na pasta do projeto:
+2. Entre na pasta do projeto:
 cd gerenciador-objetos-js
 
-´´´3. Execute o código:
+3. Execute o código:
 node main.js
